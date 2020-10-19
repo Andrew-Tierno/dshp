@@ -1,8 +1,4 @@
 {
-  "port": 8888,
-  "interface": "",
-  "reply": "",
-  "timeout": 300,
-  "handlers": ["emailer.py"],
-  "handler_exec": "/usr/bin/python2.7"
+  "port_list": [4000, 2000],
+  "host": "127.0.0.1"
 }

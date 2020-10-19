@@ -1,0 +1,4 @@
+name: hello-darknet
+dependencies:
+  - python=3.8
+  - click
